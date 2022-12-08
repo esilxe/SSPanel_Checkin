@@ -9,13 +9,16 @@ It is only applicable when there is no verification code protection and cloudfla
  
 ## How to use
 
- First,Fork, set secrets [AIRPORTURL] [USERNAME] [USERPASSWD]  
- Then start action file.  
+ First,Fork, set secrets [AIRPORTURL] [USERNAME] [USERPASSWD]   (Setting > Secrets > Actions)
+ Then start Action, enable Workflow   (Project Main Page)
+ Select checkin workflow, (Run Workflow > Run Workflow)
  If your secrets is right , the action will running successful.  
  And Multi URL split with &&.
  
- 首先，您需要Fork , 并在Secrets中增加 [AIRPORTURL] [USERNAME] [USERPASSWD] 三个值。  
- 最后启用Action files,如果Secrets设置正确的值，脚本将会正常运行。  
+ 首先，您需要Fork , 并在Secrets中增加 [AIRPORTURL] [USERNAME] [USERPASSWD] 三个值。  (Setting > Secrets > Actions)
+ 最后点击Action，启用Workflow 。 （项目主页）
+ 点击 Run Workflow 运行。
+ 如果Secrets设置正确的值，脚本将会正常运行。
  支持多个机场签到，多个值使用&&分割。  
 
 
