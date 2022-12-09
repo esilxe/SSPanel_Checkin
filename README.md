@@ -46,10 +46,6 @@ Note that the URL must be a string with HTTP (HTTPS), such as https://github.com
 ## IMAGE
 ![image](https://user-images.githubusercontent.com/45820630/133551741-f836b3f8-b9f5-42c5-bb41-c09f4dcb7f59.png)
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/inokoe/SSPanel_Checkin.svg)](https://starchart.cc/inokoe/SSPanel_Checkin)
-
 
 ## Cron-style Scheduling
 
