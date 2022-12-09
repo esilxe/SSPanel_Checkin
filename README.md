@@ -47,7 +47,7 @@ Note that the URL must be a string with HTTP (HTTPS), such as https://github.com
 ![image](https://user-images.githubusercontent.com/45820630/133551741-f836b3f8-b9f5-42c5-bb41-c09f4dcb7f59.png)
 
 
-## Workflow Schedule POSIX Cron-style Scheduling
+## Workflow Schedule POSIX Cron-style
 [Github Workflow Document](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule)
 
 The cron format consists of:  
