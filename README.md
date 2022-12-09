@@ -54,7 +54,7 @@ Note that the URL must be a string with HTTP (HTTPS), such as https://github.com
 ## Cron-style Scheduling
 
 The cron format consists of:  
-
+```
 *    *    *    *    *    *  
 ┬    ┬    ┬    ┬    ┬    ┬  
 │    │    │    │    │    │  
@@ -64,3 +64,4 @@ The cron format consists of:
 │    │    └─────────────── hour (0 - 23)  
 │    └──────────────────── minute (0 - 59)  
 └───────────────────────── second (0 - 59, OPTIONAL)  
+```
